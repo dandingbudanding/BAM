@@ -9,6 +9,10 @@ This project is built from IDN, and thanks for the contributions of all the othe
 - h5py 2.8.0
 - tqdm 4.30.0
 
+##result
+![图片](https://user-images.githubusercontent.com/34860373/112290659-6aeafe80-8cca-11eb-9a95-b6755cb04477.png)
+
+
 ## Train
 
 The DIV2K, Set5 dataset converted to HDF5 can be downloaded from the links below.Otherwise, you can use `prepare.py` to create custom dataset.
