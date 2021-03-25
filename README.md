@@ -1,4 +1,4 @@
-# BAM  
+# BAM  (The project is a bit messy, I will clean up the code later）
 This project is built from IDN, and thanks for the contributions of all the other researchers those who made their codes accessible.
 
 ## Requirements
