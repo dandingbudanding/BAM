@@ -13,8 +13,12 @@ paper：https://arxiv.org/abs/2104.07566
 
 ##result
 
-![图片](https://user-images.githubusercontent.com/34860373/115811581-8d377f80-a422-11eb-963d-2acf3892883f.png)
+![图片](https://user-images.githubusercontent.com/34860373/115811708-cbcd3a00-a422-11eb-814b-cdfa17fe681a.png)
+
+
 ![manga109comparison_100dip](https://user-images.githubusercontent.com/34860373/115811323-0d111a00-a422-11eb-8b4c-ff0b49c752e4.jpg)
+
+
 ![Fig8-1](https://user-images.githubusercontent.com/34860373/115811481-5cefe100-a422-11eb-9ced-0e2f02d47915.jpg)
 
 
