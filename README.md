@@ -13,7 +13,7 @@ paper：https://arxiv.org/abs/2104.07566
 
 ##result
 
-![图片](https://user-images.githubusercontent.com/34860373/115811708-cbcd3a00-a422-11eb-814b-cdfa17fe681a.png)
+![图片](https://user-images.githubusercontent.com/34860373/115811778-f0291680-a422-11eb-8781-aa01aa03d0ad.png)
 
 
 ![manga109comparison_100dip](https://user-images.githubusercontent.com/34860373/115811323-0d111a00-a422-11eb-8b4c-ff0b49c752e4.jpg)
