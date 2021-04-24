@@ -12,6 +12,7 @@ paper：https://arxiv.org/abs/2104.07566
 - tqdm 4.30.0
 
 ##result
+Some of the indicators in the MSRN paper are quite different from the indicators given in the original author's open source code, and the indicators in the open source code are used：https://github.com/MIVRC/MSRN-PyTorch
 
 ![图片](https://user-images.githubusercontent.com/34860373/115811778-f0291680-a422-11eb-8781-aa01aa03d0ad.png)
 
