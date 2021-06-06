@@ -22,6 +22,11 @@ Some of the indicators in the MSRN paper are quite different from the indicators
 ![Fig8-1](https://user-images.githubusercontent.com/34860373/115811481-5cefe100-a422-11eb-9ced-0e2f02d47915.jpg)
 
 
+FPS comparison
+![IMDN_fps_all](https://user-images.githubusercontent.com/34860373/120927300-107f0d00-c713-11eb-9eb0-44ccc4f3ed57.png)
+![DRLN_fps_all](https://user-images.githubusercontent.com/34860373/120927305-1379fd80-c713-11eb-9db1-aa97cf6e3df7.png)
+
+
 ## Train
 
 The DIV2K, Set5 dataset converted to HDF5 can be downloaded from the links below.Otherwise, you can use `prepare.py` to create custom dataset.
