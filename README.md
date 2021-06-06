@@ -16,7 +16,7 @@ Some of the indicators in the MSRN paper are quite different from the indicators
 ![图片](https://user-images.githubusercontent.com/34860373/115811778-f0291680-a422-11eb-8781-aa01aa03d0ad.png)
 
 
-![manga109comparison_100dip](https://user-images.githubusercontent.com/34860373/115811323-0d111a00-a422-11eb-8b4c-ff0b49c752e4.jpg)
+![manga109comparison_](https://user-images.githubusercontent.com/34860373/120927948-49b87c80-c715-11eb-9968-9cd61ac24f30.jpg)
 
 
 ![Fig8-1](https://user-images.githubusercontent.com/34860373/115811481-5cefe100-a422-11eb-9ced-0e2f02d47915.jpg)
