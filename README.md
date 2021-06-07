@@ -13,7 +13,8 @@ This project is built from IDN, and thanks for the contributions of all the othe
 
 Some of the indicators in the MSRN paper are quite different from the indicators given in the original author's open source code, and the indicators in the open source code are used：https://github.com/MIVRC/MSRN-PyTorch
 
-![图片](https://user-images.githubusercontent.com/34860373/115811778-f0291680-a422-11eb-8781-aa01aa03d0ad.png)
+![图片](https://user-images.githubusercontent.com/34860373/120951748-2248ca80-c77c-11eb-8b6e-ea51b7e28705.png)
+
 
 
 ![manga109comparison_](https://user-images.githubusercontent.com/34860373/120927948-49b87c80-c715-11eb-9968-9cd61ac24f30.jpg)
