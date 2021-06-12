@@ -15,11 +15,13 @@ Some of the indicators in the MSRN paper are quite different from the indicators
 
 ![图片](https://user-images.githubusercontent.com/34860373/120951748-2248ca80-c77c-11eb-8b6e-ea51b7e28705.png)
 
+visual and metric comparison
+![绘图2_100dip](https://user-images.githubusercontent.com/34860373/121781302-a238bf80-cbd6-11eb-8ac7-3a6e98700f72.png)
 
-
+visual comparison
 ![manga109comparison_](https://user-images.githubusercontent.com/34860373/120927948-49b87c80-c715-11eb-9968-9cd61ac24f30.jpg)
 
-
+metric comparison
 ![Fig8-1](https://user-images.githubusercontent.com/34860373/115811481-5cefe100-a422-11eb-9ced-0e2f02d47915.jpg)
 
 
