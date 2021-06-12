@@ -9,30 +9,30 @@ This project is built from IDN, and thanks for the contributions of all the othe
 - h5py 2.8.0
 - tqdm 4.30.0
 
-##result
+## result
 
 Some of the indicators in the MSRN paper are quite different from the indicators given in the original author's open source code, and the indicators in the open source code are used：https://github.com/MIVRC/MSRN-PyTorch
 
-##control exp
+## control exp
 ![图片](https://user-images.githubusercontent.com/34860373/120951748-2248ca80-c77c-11eb-8b6e-ea51b7e28705.png)
 
-##visual and metric comparison
+## visual and metric comparison
 ![绘图2_100dip](https://user-images.githubusercontent.com/34860373/121781302-a238bf80-cbd6-11eb-8ac7-3a6e98700f72.png)
 
-##visual comparison
+## visual comparison
 ![manga109comparison_](https://user-images.githubusercontent.com/34860373/120927948-49b87c80-c715-11eb-9968-9cd61ac24f30.jpg)
 
-##metric comparison
+## metric comparison
 ![Fig8-1](https://user-images.githubusercontent.com/34860373/115811481-5cefe100-a422-11eb-9ced-0e2f02d47915.jpg)
 
 
-##ablation exp
+## ablation exp
 
 ![图片](https://user-images.githubusercontent.com/34860373/121781438-4a4e8880-cbd7-11eb-97d8-bc6d7c931923.png)
 
-##speed exp
+## speed exp
 
-##FPS comparison
+## FPS comparison
 ![IMDN_fps_all](https://user-images.githubusercontent.com/34860373/120927300-107f0d00-c713-11eb-9eb0-44ccc4f3ed57.png)
 ![DRLN_fps_all](https://user-images.githubusercontent.com/34860373/120927305-1379fd80-c713-11eb-9db1-aa97cf6e3df7.png)
 
