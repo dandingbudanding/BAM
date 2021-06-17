@@ -31,14 +31,12 @@ Some of the indicators in the MSRN paper are quite different from the indicators
 ![图片](https://user-images.githubusercontent.com/34860373/122319376-241c4600-cf53-11eb-9474-5948a442f7ac.png)
 
 ## metric comparison
-![图片](https://user-images.githubusercontent.com/34860373/122319420-31393500-cf53-11eb-9f35-e1b5cb8e6d7e.png)
+![图片](https://user-images.githubusercontent.com/34860373/122320164-672ae900-cf54-11eb-9158-6a7a37b3d631.png)
 
 
 ## ablation exp
 
-![图片](https://user-images.githubusercontent.com/34860373/122319472-401fe780-cf53-11eb-8829-1532397a3acd.png)
-
-![图片](https://user-images.githubusercontent.com/34860373/122319563-575ed500-cf53-11eb-8771-47708fe7d540.png)
+![图片](https://user-images.githubusercontent.com/34860373/122320206-7ad64f80-cf54-11eb-8434-6c622ddd2753.png)
 
 ## speed exp
 
