@@ -18,7 +18,7 @@ Some of the indicators in the MSRN paper are quite different from the indicators
 ![图片](https://user-images.githubusercontent.com/34860373/122319260-f505d480-cf52-11eb-84d4-d601a42295d9.png)
 
 ## control exp
-![图片](https://user-images.githubusercontent.com/34860373/122319075-afe1a280-cf52-11eb-982f-fe4ca334e5c5.png)
+![图片](https://user-images.githubusercontent.com/34860373/122320334-a822fd80-cf54-11eb-89f2-43f3cd02c500.png)
 
 ![图片](https://user-images.githubusercontent.com/34860373/122319127-c38d0900-cf52-11eb-85c5-b24672dce672.png)
 
