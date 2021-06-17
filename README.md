@@ -13,22 +13,32 @@ This project is built from IDN, and thanks for the contributions of all the othe
 
 Some of the indicators in the MSRN paper are quite different from the indicators given in the original author's open source code, and the indicators in the open source code are used：https://github.com/MIVRC/MSRN-PyTorch
 
+## structure
+
+![图片](https://user-images.githubusercontent.com/34860373/122319260-f505d480-cf52-11eb-84d4-d601a42295d9.png)
+
 ## control exp
-![图片](https://user-images.githubusercontent.com/34860373/120951748-2248ca80-c77c-11eb-8b6e-ea51b7e28705.png)
+![图片](https://user-images.githubusercontent.com/34860373/122319075-afe1a280-cf52-11eb-982f-fe4ca334e5c5.png)
+
+![图片](https://user-images.githubusercontent.com/34860373/122319127-c38d0900-cf52-11eb-85c5-b24672dce672.png)
+
+![图片](https://user-images.githubusercontent.com/34860373/122319195-de5f7d80-cf52-11eb-9928-55d33061743d.png)
 
 ## visual and metric comparison
-![绘图2_100dip](https://user-images.githubusercontent.com/34860373/121781302-a238bf80-cbd6-11eb-8ac7-3a6e98700f72.png)
+![图片](https://user-images.githubusercontent.com/34860373/122319315-09e26800-cf53-11eb-9939-47a37b611e98.png)
 
 ## visual comparison
-![manga109comparison_](https://user-images.githubusercontent.com/34860373/120927948-49b87c80-c715-11eb-9968-9cd61ac24f30.jpg)
+![图片](https://user-images.githubusercontent.com/34860373/122319376-241c4600-cf53-11eb-9474-5948a442f7ac.png)
 
 ## metric comparison
-![Fig8-1](https://user-images.githubusercontent.com/34860373/115811481-5cefe100-a422-11eb-9ced-0e2f02d47915.jpg)
+![图片](https://user-images.githubusercontent.com/34860373/122319420-31393500-cf53-11eb-9f35-e1b5cb8e6d7e.png)
 
 
 ## ablation exp
 
-![图片](https://user-images.githubusercontent.com/34860373/121781438-4a4e8880-cbd7-11eb-97d8-bc6d7c931923.png)
+![图片](https://user-images.githubusercontent.com/34860373/122319472-401fe780-cf53-11eb-8829-1532397a3acd.png)
+
+![图片](https://user-images.githubusercontent.com/34860373/122319563-575ed500-cf53-11eb-8771-47708fe7d540.png)
 
 ## speed exp
 
