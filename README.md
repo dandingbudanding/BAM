@@ -36,6 +36,7 @@ Some of the indicators in the MSRN paper are quite different from the indicators
 
 
 ## ablation exp
+![图片](https://user-images.githubusercontent.com/34860373/122322135-8ecf8080-cf57-11eb-99f1-1f08b6ea2fed.png)
 
 ![图片](https://user-images.githubusercontent.com/34860373/122320164-672ae900-cf54-11eb-9158-6a7a37b3d631.png)
 
