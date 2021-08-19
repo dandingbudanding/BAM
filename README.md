@@ -16,6 +16,10 @@ Some of the indicators in the MSRN paper are quite different from the indicators
 
 ## Examples
 
+![绘图1](https://user-images.githubusercontent.com/34860373/130089485-8d40eb69-0167-4484-b204-fe4c17166670.png)
+![绘图2_100](https://user-images.githubusercontent.com/34860373/130089747-fc77730e-3d85-40c0-b7c5-1585327b27f3.jpg)
+
+
 ![图片](https://user-images.githubusercontent.com/34860373/122507062-1a1d4480-d032-11eb-8e15-bbaff11feca5.png)
 
 
