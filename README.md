@@ -1,7 +1,9 @@
 # BAM  (The project is a bit messy, I will clean up the code later）
 This project is built from IDN, and thanks for the contributions of all the other researchers those who made their codes accessible.
-## paper:   https://arxiv.org/abs/2104.07566
-## zhuanlan：https://zhuanlan.zhihu.com/p/384160700
+## realSR7
+## baidu link：https://pan.baidu.com/s/1MsQma3ZhJr8hTmlhdRSFNQ 
+## passwords：37cr
+
 ## Requirements
 
 - PyTorch>=1.0.0
