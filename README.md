@@ -1,5 +1,7 @@
 # BAM  (The project is a bit messy, I will clean up the code later）
 This project is built from IDN, and thanks for the contributions of all the other researchers those who made their codes accessible.
+paper_link:https://arxiv.org/ftp/arxiv/papers/2104/2104.07566.pdf
+
 ## realSR7
 baidu link：https://pan.baidu.com/s/1UmUc7Gbjip72rvLpDRkk6Q 
 passwords：cxs8
